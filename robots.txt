@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-zzvbwe.planetjp.online/sitemap.xml
